@@ -1,3 +1,4 @@
+
 document.addEventListener('DOMContentLoaded', () => {
     // Selecciona todos los enlaces del menú
     const menuLinks = document.querySelectorAll('.nav-link');
@@ -79,4 +80,5 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 });
+
 
